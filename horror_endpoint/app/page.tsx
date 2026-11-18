@@ -23,7 +23,7 @@ export default function Page() {
         </div>
         <div className="rounded-lg border border-red-900 bg-slate-900 p-6">
           <h2 className="mb-2 font-bold text-red-500">Payment</h2>
-          <p className="text-sm text-slate-300">$0.50 USDC on Base mainnet</p>
+          <p className="text-sm text-slate-300">$0.25 USDC on Base mainnet</p>
         </div>
         <div className="rounded-lg border border-red-900 bg-slate-900 p-6">
           <h2 className="mb-2 font-bold text-red-500">Builder Code</h2>
